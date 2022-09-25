@@ -72,6 +72,8 @@
 
 Его координаты перестанут зависеть от координат родительского объекта
 
+https://user-images.githubusercontent.com/44214720/192154033-8960ce2b-d656-4644-ab27-5ac6622f4fe0.mp4
+
 -Создайте три различных примера работы компонента RigidBody
 
 1) Gravity. На зеленый кубик действует гравитация, на синий- нет. Поэтому после запуска сцены зеленый кубик изменяет свои координаты, пока не упадет на опору, а синий остается на месте.
@@ -82,23 +84,10 @@
 https://user-images.githubusercontent.com/44214720/192153423-ddd376aa-8fec-4d6a-8ea1-0c3a1189fd12.mp4
 
 
-Ход работы:
 ## Задание 3
-### 
+### Реализуйте на сцене генерацию n кубиков. Число n вводится пользователем после старта сцены.
+а как это делать-то?
 
 ## Выводы
 
-Абзац умных слов о том, что было сделано и что было узнано.
-
-| Plugin | README |
-| ------ | ------ |
-| Dropbox | [plugins/dropbox/README.md][PlDb] |
-| GitHub | [plugins/github/README.md][PlGh] |
-| Google Drive | [plugins/googledrive/README.md][PlGd] |
-| OneDrive | [plugins/onedrive/README.md][PlOd] |
-| Medium | [plugins/medium/README.md][PlMe] |
-| Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
-
-## Powered by
-
-**BigDigital Team: Denisov | Fadeev | Panov**
+Абзац неописуемо умных слов о том, что было сделано и что было узнано.

@@ -86,7 +86,30 @@ https://user-images.githubusercontent.com/44214720/192153423-ddd376aa-8fec-4d6a-
 
 ## Задание 3
 ### Реализуйте на сцене генерацию n кубиков. Число n вводится пользователем после старта сцены.
-а как это делать-то?
+
+1) создаем объект, который будет генерировать кубы, сами префабы кубов, поле ввода текста
+
+![image](https://user-images.githubusercontent.com/44214720/192162138-799b417e-d2f9-4f86-877a-bc42fdb728d6.png)
+
+![image](https://user-images.githubusercontent.com/44214720/192162166-2441e7a1-419e-4f7f-830b-2743b655c991.png)
+
+![image](https://user-images.githubusercontent.com/44214720/192162196-e1bb37bc-8e1c-42b7-9b71-743f0537158f.png)
+
+2) бахаем скрипт генерации кубов
+
+![image](https://user-images.githubusercontent.com/44214720/192162265-1671fffe-d3e7-43a7-b63a-d68f8673795e.png)
+
+3) соединяем все с помощью великолепного интерфейса, чтобы разобраться в котором пришлось посмотреть 100500 уроков на ютубе
+
+![image](https://user-images.githubusercontent.com/44214720/192162335-e541c11c-4a24-4a0c-a1c2-d3c43145ea7a.png)
+
+![image](https://user-images.githubusercontent.com/44214720/192162358-78ce460e-b23b-4a7e-bc53-60fc3f58a6c7.png)
+
+4) созерцем что-то такое
+
+https://user-images.githubusercontent.com/44214720/192162710-17d24752-dba1-42e4-8447-754ea8a55b84.mp4
+
+
 
 ## Выводы
 

@@ -65,6 +65,7 @@ https://user-images.githubusercontent.com/44214720/194928249-01ad2803-57fb-475a-
 
 
 
+
 ## Задание 2
 ### Добавить в проект систему проверки SDK:
 

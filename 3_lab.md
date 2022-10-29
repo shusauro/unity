@@ -7,7 +7,7 @@
 | ------ | ------ | ------ |
 | Задание 1 | * | 60 |
 | Задание 2 | * | 20 |
-| Задание 3 | # | 20 |
+| Задание 3 | * | 20 |
 
 знак "*" - задание выполнено; знак "#" - задание не выполнено;
 
@@ -82,7 +82,21 @@ https://user-images.githubusercontent.com/44214720/197485328-837c9c4d-832b-427a-
 ## Задание 3
 ### Повторить реализацию практической работы 5
 
+Интегрируем плагин в проект
 
+![image](https://user-images.githubusercontent.com/44214720/197779966-3be33a0e-b52d-4a63-a215-e389acc82536.png)
+
+Добавляем объект YandexGame на сцену
+
+![image](https://user-images.githubusercontent.com/44214720/197780663-e2af98e1-cad2-4a3a-a3fb-9f8e685411d5.png)
+
+Собираем билд, упаковываем его в Zip архив
+
+![image](https://user-images.githubusercontent.com/44214720/197780769-3bf38fd5-9998-40a1-a57c-b5348a16d7e7.png)
+
+Загружаем билд на сервер яндекса
+
+![image](https://user-images.githubusercontent.com/44214720/197782392-b57278ef-026a-4b0a-a765-e6a000376f03.png)
 
 ## Выводы
 

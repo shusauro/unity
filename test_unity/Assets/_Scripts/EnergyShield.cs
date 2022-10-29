@@ -6,6 +6,7 @@ using TMPro;
 public class EnergyShield : MonoBehaviour
 {
     public TextMeshProUGUI scoreGT;
+    public AudioSource audioSource;
 
     private void Start()
     {
@@ -29,6 +30,8 @@ public class EnergyShield : MonoBehaviour
         GameObject Collided = collision.gameObject;
         if (Collided.tag == "Dragon Egg")
         {
+            audioSource = GetComponent<AudioSource>();
+            audioSource.Play();
             Destroy(Collided);
             var score = int.Parse(scoreGT.text);
             score ++;

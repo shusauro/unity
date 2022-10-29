@@ -40,7 +40,7 @@ public class DragonPicker : MonoBehaviour
 
         if (shieldList.Count == 0)
         {
-            SceneManager.LoadScene("_0Scene");
+            SceneManager.LoadScene("MainMenuScene");
         }   
     }
 }

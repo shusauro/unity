@@ -30,11 +30,11 @@
 
 ## Задание 1
 ### Повторить реализацию практических работ 1-5
-1 лаба
+1 видева
 
 ![image](https://user-images.githubusercontent.com/44214720/205683262-d2592e85-ac54-43a1-8930-2c64404c9ef5.png)
 
-2 лаба
+2 видева
 
 ![image](https://user-images.githubusercontent.com/44214720/205683405-07f38d00-d34c-4424-b4cf-ead4a64e34d7.png)
 
@@ -42,7 +42,7 @@
 ![image](https://user-images.githubusercontent.com/44214720/205683668-3124090d-9740-4e3f-8282-cbcd52f2de9e.png)
 ![image](https://user-images.githubusercontent.com/44214720/205683773-9943b7d6-dd00-41b2-94a9-a1bb3afa97cd.png)
 
-3 лаба
+3 видева
  
 ![image](https://user-images.githubusercontent.com/44214720/205761488-9d1bca1f-168d-43a7-8fc4-01667915ec8b.png)
 
@@ -50,13 +50,13 @@
 
 ![image](https://user-images.githubusercontent.com/44214720/205761662-58731213-4411-413b-9db2-95322be79dfb.png)
 
-4 лаба
+4 видева
 
 тут невероятно содержательные изменения, добавлена 53 строчка
 
 ![image](https://user-images.githubusercontent.com/44214720/205762975-d4dfce72-c6f3-42a4-9e1c-c152b18a092a.png)
 
-5 лаба
+5 видева
 
 Тут вопросики, вообще не понятен механизм добавления ачивок. но код по аналогии с лекциями ниже
 

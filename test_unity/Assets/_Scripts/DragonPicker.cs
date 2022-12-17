@@ -51,6 +51,7 @@ public class DragonPicker : MonoBehaviour
             scoreGT = scoreGo.GetComponent<TextMeshProUGUI>();
             UserSave(int.Parse(scoreGT.text));
             YandexGame.NewLeaderboardScores("TOPPlayerScore", int.Parse(scoreGT.text));
+            YandexGame.RewVideoShow(0);
             SceneManager.LoadScene("MainMenuScene");
             GetLoadSave();
         }   
